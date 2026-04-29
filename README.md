@@ -1,7 +1,4 @@
-
-**DEPRECATED**
-
-<h1 align="center">Monokai RainStorm</h1>
+<h1 align="center"><strong>[DEPRECATED]</strong> - Monokai RainStorm</h1>
 
 <p align="center">
     A theme with neutral gray backgrounds with water highlights &
