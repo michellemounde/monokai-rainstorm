@@ -1,8 +1,8 @@
 {
   "name": "monokai-rain",
-  "displayName": "Monokai RainStorm",
+  "displayName": "[DEPRECATED] Monokai RainStorm",
   "description": "A theme with neutral gray backgrounds, grey and blue colors, water highlights & Sweet Dracula Monokai syntax highlighting",
-  "version": "0.2.8",
+  "version": "0.3.2",
   "publisher": "mimo",
   "engines": {
     "vscode": "^1.82.0"

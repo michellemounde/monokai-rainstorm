@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.2] - 2026-04-29
+
+- Deprecate
+
+## [0.3.1] - 2026-04-29
+
+- Update logo
+
 ## [0.3.0] - 2024-08-05
 
 - Add light blue, dark blue and darkest mode & Move all themes to list as dark mode themes
